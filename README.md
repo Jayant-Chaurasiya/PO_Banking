@@ -20,7 +20,7 @@ Banking Application
    <li>
     JavaScript
   </li> <li>
-    CSS
+    HTML
   </li> <li>
     CSS
   </li> <li>
