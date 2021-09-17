@@ -24,15 +24,16 @@ Online Banking Application
   </ul>
   
   <h3>Features</h3>
- <ul>1</ul>
-  <ul>1</ul>
-   <ul>1</ul>
+ <ul>
+  <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>
    
-   <h5>
-To-do List</h5>
-<ul>  </ul>
-<ul>  </ul>
-<ul>  </ul>
+   <h5>   To-do List</h5>
+<ul> 1 </ul>
+<ul> 2 </ul>
+<ul> 3 </ul>
 
 
 <h3>Getting Started</h3>
