@@ -9,23 +9,16 @@ Online Banking Application
 <h1>Technology Used</h1>
 <ul>
   <li>
-    Java  
-  </li>
-  
-   <li>JDBC
-    
-  </li>
+    Java8
+  </li>  
    <li>
-    Hibernate
-  </li>
-   <li>
-    JavaScript
+    JavaScript ES9
   </li> <li>
-    HTML
+    HTML5
   </li> <li>
-    CSS
+    CSS3
   </li> <li>
-    MySQL
+    MySQL8
   </li>
   
   </ul>
