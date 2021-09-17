@@ -31,9 +31,12 @@ Online Banking Application
 </ul>
    
    <h5>   To-do List</h5>
-<ul> 1 </ul>
-<ul> 2 </ul>
-<ul> 3 </ul>
+ <ul>
+  <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>
+   
 
 
 <h3>Getting Started</h3>
