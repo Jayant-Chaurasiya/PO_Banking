@@ -9,16 +9,16 @@ Online Banking Application
 <h1>Technology Used</h1>
 <ul>
   <li>
-    Java8
+    Java 8
   </li>  
    <li>
     JavaScript ES9
   </li> <li>
-    HTML5
+    HTML 5
   </li> <li>
-    CSS3
+    CSS 3
   </li> <li>
-    MySQL8
+    MySQL 8
   </li>
   
   </ul>
