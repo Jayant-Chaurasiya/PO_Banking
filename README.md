@@ -20,37 +20,53 @@ Online Banking Application
   </li> <li>
     MySQL 8
   </li>
+   <li>
+   Servlets
+  </li>
+   <li>
+    MySQL 8
+  </li>
+  <li>
+  Hibernate 5.5.3
+  </li>
   
   </ul>
   
   <h3>Features</h3>
  <ul>
-  <li>1</li>
-    <li>2</li>
-    <li>3</li>
+  <li>Employee and Customer will be able to signup with valid details and while signing in their details are getting validated, if the credentials are wrong they are asked to input their credentials again otherwise  they logged in into their dashboard</li>
+    <li>Both Employee and Customer Module will be able to perform all the required activity with this application.</li>
+    <li>User module will be able to manage the employees and the customers based on the requirements.</li>
+  <li>Implementation of Exception handling and Logging working perfectly in thuis application</li>
 </ul>
    
    <h5>   To-do List</h5>
  <ul>
-  <li>1</li>
-    <li>2</li>
-    <li>3</li>
+  <li>Implementation on Cheque Book module with this application.</li>
+  
+    <li>Providing best user interaction with this application</li>
+    <li>Generate Unique Card Number with a pin to make the transactions without signing in.</li>
 </ul>
    
 
 
 <h3>Getting Started</h3>
-<p>Add here</p>
+<p>1. Start with this Github Repository</p>
+<p>2. Git clone to directory of your choice $ git clone https://github.com/Jayant-Chaurasiya/PO_Banking.git</p>
+
+<p>3. Run the project on server</p>
 
 
 <h3>Usage</h3>
-<p>Add here</p>
+<p>1. You habe to signup as your Requirement like as (User, Employee, Customer)</p>
+
+<p>2. Login with valid Credentials to access your dashboard.</p>
+
+<p>3. After Successfully logged in into your dashboard you can perform the task regarding to your module.</p>
 
 
-<h3>Contributors</h3>
-<ul>
-  <li>Jayant Chaurasiya</li>
-</ul>
+
+
+
  
- 
- <h3>License</h3>
+
