@@ -42,10 +42,9 @@ Online Banking Application
    
    <h5>   To-do List</h5>
  <ul>
-  <li>Implementation on Cheque Book module with this application.</li>
-  
-    <li>Providing best user interaction with this application</li>
-    <li>Generate Unique Card Number with a pin to make the transactions without signing in.</li>
+  <li>Implementation on Cheque Book module with this application.</li>  
+   <li>Providing best user interaction with this application.</li>
+   <li>Generate Unique Card Number with a pin to make the transactions without signing in.</li>
 </ul>
    
 
