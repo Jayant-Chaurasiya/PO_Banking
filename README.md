@@ -57,7 +57,7 @@ Online Banking Application
 
 
 <h3>Usage</h3>
-<p>1. You habe to signup as your Requirement like as (User, Employee, Customer)</p>
+<p>1. You have to signup as your Requirement like as (User, Employee, Customer)</p>
 
 <p>2. Login with valid Credentials to access your dashboard.</p>
 
